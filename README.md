@@ -1,82 +1,44 @@
-# [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
+# Ali Hasnain | Personal Portfolio
 
-[Personal](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
+Welcome to my personal portfolio repository! This website showcases my academic background, technical skills, cybersecurity interests, and projects.
 
-## Preview
+## About Me
 
-[![Personal Preview](https://assets.startbootstrap.com/img/screenshots/themes/personal.png)](https://startbootstrap.github.io/startbootstrap-personal/)
+I am a BE Information Security student with a strong interest in Cybersecurity, Ethical Hacking, and Network Security. I enjoy exploring security vulnerabilities, understanding how computer systems work, and solving practical cybersecurity challenges. I have experience with Linux, Wireshark, C++, networking fundamentals, and hands-on security labs. My goal is to become a skilled Information Security professional, specialize in offensive security, and contribute to protecting digital systems from cyber threats.
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-personal/)**
+## Technical Skills
 
-## Status
+- Linux Fundamentals
+- Networking Fundamentals
+- Wireshark
+- C++
+- Git and GitHub
+- Cybersecurity Fundamentals
+- Ethical Hacking Basics
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-personal/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-personal.svg)](https://www.npmjs.com/package/startbootstrap-personal)
+## Projects
 
-## Download and Installation
+This portfolio includes selected university projects and practical cybersecurity labs.
 
-To begin using this template, choose one of the following options to get started:
+- **Network Traffic Analysis:** Analyzing network packets using Wireshark.
+- **Linux File Permissions:** Practicing Linux file permissions and access control.
+- **Digital Forensics:** Learning forensic image integrity verification using hashing.
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/personal/)
-* Install via npm: `npm i startbootstrap-personal`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-personal.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-personal)
+## Live Portfolio
 
-## Usage
+Visit my website:
 
-### Basic Usage
+**https://alihasnain512.github.io**
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## Contact
 
-### Advanced Usage
+- **GitHub:** https://github.com/alihasnain512
+- **Email:** hasnain@gmail.com
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+---
 
-#### npm Scripts
+## Credits
 
-* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-* `npm run start:debug` runs the project in debug mode
-* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+This portfolio website was developed using the free Personal Bootstrap template by [Start Bootstrap](https://startbootstrap.com/).
 
-You must have npm installed in order to use this build environment.
-
-### Contact Form
-
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
-
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
-
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-personal/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/personal/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-personal/blob/master/LICENSE) license.
+The original template is distributed under the MIT License. The original license and copyright notice are preserved in this repository.
